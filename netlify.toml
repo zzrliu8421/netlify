@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://180.103.101.212:12345/:splat"
+  to = "https://paste.842166.xyz/:splat"
   status = 200
   force = true
